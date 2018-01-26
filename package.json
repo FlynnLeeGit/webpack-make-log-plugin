@@ -1,0 +1,18 @@
+{
+  "name": "webpack-make-log-plugin",
+  "version": "0.0.1",
+  "description": "simple log in webpack",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlynnLeeGit/webpack-make-log-plugin.git"
+  },
+  "keywords": ["log", "webpack"],
+  "author": "flynnlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlynnLeeGit/webpack-make-log-plugin/issues"
+  },
+  "homepage": "https://github.com/FlynnLeeGit/webpack-make-log-plugin#readme"
+}
