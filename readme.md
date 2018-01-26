@@ -1,4 +1,4 @@
-# Simple log before every compilation
+# Simple Webpack Log before every compilation
 
 
 install
